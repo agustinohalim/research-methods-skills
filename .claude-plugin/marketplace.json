@@ -1,0 +1,12 @@
+{
+  "name": "research-methods-skills",
+  "description": "Research-methods skills for Claude Code: physiological signal processing (NeuroKit2) and time-series machine learning (aeon), vendored from K-Dense scientific-agent-skills",
+  "owner": { "name": "Agustino Halim", "url": "https://github.com/agustinohalim" },
+  "plugins": [
+    {
+      "name": "research-methods",
+      "source": "./plugins/research-methods",
+      "description": "NeuroKit2 biosignal workflows (ECG, HRV, EDA) and aeon time-series classification baselines (ROCKET, InceptionTime)"
+    }
+  ]
+}

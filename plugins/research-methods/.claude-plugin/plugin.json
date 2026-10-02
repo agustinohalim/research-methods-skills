@@ -1,0 +1,10 @@
+{
+  "name": "research-methods",
+  "version": "0.1.0",
+  "description": "NeuroKit2 biosignal workflows (ECG, HRV, EDA) and aeon time-series classification baselines (ROCKET, InceptionTime)",
+  "author": { "name": "Agustino Halim", "url": "https://github.com/agustinohalim" },
+  "homepage": "https://github.com/agustinohalim/research-methods-skills",
+  "repository": "https://github.com/agustinohalim/research-methods-skills",
+  "license": "MIT",
+  "keywords": ["neurokit2", "ecg", "hrv", "time-series", "aeon", "rocket", "biosignal"]
+}
